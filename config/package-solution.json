@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Azure App Insights Web Part",
+    "id": "e6eee17b-2a44-402a-b1d1-23600830ae56",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/appinsights-webpart.sppkg"
+  }
+}
